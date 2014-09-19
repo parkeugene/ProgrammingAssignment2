@@ -1,5 +1,5 @@
-## This is to write a pair of functions that cache the inverse of 
-## a matrix.
+## These functions can cache the inverse of a matrix with the 
+## solve function in R
 
 ## makeCacheMatrix creates a special "matrix" object that can 
 ## cache its inverse.
